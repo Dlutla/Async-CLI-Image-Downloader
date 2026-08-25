@@ -16,7 +16,7 @@ A high-performance command-line tool written in Python, designed for concurrent 
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Dlutla/Async-CLI-Image-Downloader.git
    ```
 2. Navigate to the project directory:
    ```bash
